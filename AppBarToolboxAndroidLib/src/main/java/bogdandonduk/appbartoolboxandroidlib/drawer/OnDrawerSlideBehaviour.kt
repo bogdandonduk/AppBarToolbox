@@ -1,4 +1,4 @@
-package bogdandonduk.appbartoolboxandroidlib.core
+package bogdandonduk.appbartoolboxandroidlib.drawer
 
 object OnDrawerSlideBehaviour {
     sealed class MainContentOffset {
