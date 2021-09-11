@@ -32,7 +32,7 @@ allprojects {
 ## Dependencies
 [**Slidr**](https://github.com/r0adkll/Slidr)
 
-Gradle dependency: 
+Gradle dependency
 
 ```groovy
 dependencies {
