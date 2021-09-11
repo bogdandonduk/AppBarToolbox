@@ -10,7 +10,7 @@ Add this in your **app**-level **build.gradle** file:
 dependencies {
 	...
 	
-	def latest_version_tag = 2.1.4
+	def latest_version_tag = 2.1.5
 	implementation "com.github.bogdandonduk:AppBarToolbox:$latest_version_tag"
 
 	...
