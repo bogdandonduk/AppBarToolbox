@@ -18,7 +18,7 @@ dependencies {
 ```  
 You can always find the **latest_version_tag** [here]([https://github.com/bogdandonduk/AppBarToolbox/releases](https://vk.com/away.php?utf=1&to=https%3A%2F%2Fgithub.com%2Fbogdandonduk%2FAppBarToolbox%2Freleases)).  
   
-Also make sure you have this repository this in your **project**-level **build.gradle** file:  
+Also make sure you have this repository in your **project**-level **build.gradle** file:  
 ```groovy  
 allprojects {  
 	repositories {  
